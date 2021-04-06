@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#indexDiv{
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #ebdbef;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+#viewDiv{
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #ebdbef;
+	padding: 20px;
+	border-radius: 3px;
+}
+#innerDiv{
+	background-color: #ebdbef;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+h2, p, h6{
+	color: #56435b;
+}
+
+input{
+	border-radius: 3px;
+	border: none;
+}
